@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= '4iX9H3v8ay4XeyobJTf8R5tK0AMkNujhUaTXF7hh6ZNluCEv', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'A5XzvX8WkoY3CLGZXc5SdzzdoUIIY2EIdwQzqnkMXTKYAxkz', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [584112428], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Turkey Temperature Tracker', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
